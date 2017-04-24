@@ -93,6 +93,13 @@ body{
 	p{
 		font-size: 10px;
 	}
+	label{
+		font-size: 08px;
+	}
+	.form-control{
+		font-size: 10px;
+		
+	}
 	.btn{
 		font-size: 10px;
 	}
@@ -132,6 +139,13 @@ body{
 	p{
 		font-size: 10px;
 	}
+	label{
+		font-size: 10px;
+	}
+	.form-control{
+		font-size: 12px;
+		
+	}
 	.btn{
 		font-size: 12px;
 	}
@@ -170,6 +184,13 @@ body{
 	}
 	p{
 		font-size: 12px;
+	}
+	label{
+		font-size: 12px;
+	}
+	.form-control{
+		font-size: 14px;
+		
 	}
 	.btn{
 		font-size: 14px;
@@ -211,6 +232,13 @@ body{
 	p{
 		font-size: 15px;
 	}
+	label{
+		font-size: 14px;
+	}
+	.form-control{
+		font-size: 16px;
+		
+	}
 	.btn{
 		font-size: 16px;
 	}
@@ -251,6 +279,13 @@ body{
 	}
 	p{
 		font-size: 18px;
+	}
+	label{
+		font-size: 16px;
+	}
+	.form-control{
+		font-size: 16px;
+		
 	}
 	.btn{
 		font-size: 18px;
